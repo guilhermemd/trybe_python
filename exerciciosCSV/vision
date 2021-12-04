@@ -1,0 +1,11 @@
+['Stella Mares - SSA ST 100', 'Em frente ao Hotel Grande Stella Maris.', 'Indisponível', 'SSA', '2007-01-08', '11721', '01/2007', 'CAMPANHA', 'SSA']
+
+0 ponto_codigo: 'Stella Mares - SSA ST 100',
+1 local_da_coleta: 'Em frente ao Hotel Grande Stella Maris.'
+2 categoria: 'Indisponível'
+3 costa_ponto:'SSA',
+4 data_emissao: '2007-01-08',
+5 id_campanha: '11721',
+6 numero_boletim: '01/2007',
+7 ipo_campanha:'CAMPANHA',
+8 costa_menu: 'SSA'
